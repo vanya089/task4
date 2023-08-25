@@ -1,0 +1,50 @@
+[
+  {
+    "email": "xxxggfcv@gmail.com",
+    "username": "Peter",
+    "password": 1234,
+    "status": "online"
+  },
+  {
+    "email": "xxx123@gmail.com",
+    "username": "John",
+    "password": 1234,
+    "status": "offline"
+  },
+  {
+    "email": "x1243@gmail.com",
+    "username": "Mary",
+    "password": 1234,
+    "status": "offline"
+  },
+  {
+    "email": "xxx234@gmail.com",
+    "username": "Nora",
+    "password": 1234,
+    "status": "online"
+  },
+  {
+    "email": "xxxggfcv@gmail.com",
+    "username": "Peter",
+    "password": 1234,
+    "status": "online"
+  },
+  {
+    "email": "xxx123@gmail.com",
+    "username": "John",
+    "password": 1234,
+    "status": "offline"
+  },
+  {
+    "email": "x1243@gmail.com",
+    "username": "Mary",
+    "password": 1234,
+    "status": "offline"
+  },
+  {
+    "email": "xxx234@gmail.com",
+    "username": "Nora",
+    "password": 1234,
+    "status": "online"
+  }
+]
